@@ -19,7 +19,10 @@
   <img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=italomartinns&show_icons=true&theme=great-gatsby"/>
 </a> -->
 <a href="https://github.com/italomartinns/github-readme-stats">
-  <img height=170 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=italomartinns&theme=great-gatsby&layout=compact&langs_count=10"/>
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=italomartinns&theme=default&layout=compact&langs_count=10">
+    <img height=170 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=italomartinns&theme=great-gatsby&layout=compact&langs_count=10"/>
+  </picture>
 </a>
 
 ## 🖥️ Languages and Tools
