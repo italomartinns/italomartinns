@@ -1,10 +1,7 @@
 <div align="center">
   <picture>
-    <source 
-    media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/italomartinns/italomartinns/main/pics/hellothere-dark.png" alt="hello there" height="60px" width="auto">
-    <source 
-    media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/italomartinns/italomartinns/main/pics/hellothere-light.png" alt="hello there" height="60px" width="auto">
-    <img src="https://raw.githubusercontent.com/italomartinns/italomartinns/main/pics/hellothere-light.png">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/italomartinns/italomartinns/main/pics/hellothere-light.png" >
+    <img alt="hello there" height="60px" width="auto" src="https://raw.githubusercontent.com/italomartinns/italomartinns/main/pics/hellothere-dark.png">
   </picture>
 </div>
 
