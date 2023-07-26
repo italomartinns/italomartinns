@@ -17,8 +17,8 @@
 </a> -->
 <a href="https://github.com/italomartinns/github-readme-stats">
   <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=italomartinns&theme=default&layout=compact&langs_count=10">
-    <img height=170 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=italomartinns&theme=nord&layout=compact&langs_count=10"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://githubreadmestats-it.vercel.app/api/top-langs/?username=italomartinns&theme=default&layout=compact&langs_count=10">
+    <img height=170 align="center" src="https://githubreadmestats-it.vercel.app/api/top-langs/?username=italomartinns&theme=nord&layout=compact&langs_count=10"/>
   </picture>
 </a>
 
