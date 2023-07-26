@@ -18,7 +18,7 @@
 <a href="https://github.com/italomartinns/github-readme-stats">
   <picture>
     <source media="(prefers-color-scheme: light)" srcset="https://githubreadmestats-it.vercel.app/api/top-langs/?username=italomartinns&theme=default&layout=compact&langs_count=10">
-    <img height=170 align="center" src="https://githubreadmestats-it.vercel.app/api/top-langs/?username=italomartinns&theme=nord&layout=compact&langs_count=10"/>
+    <img height=170 align="center" src="https://githubreadmestats-it.vercel.app/api/top-langs/?username=italomartinns&theme=github_dark&layout=compact&langs_count=10"/>
   </picture>
 </a>
 
