@@ -10,13 +10,10 @@
 - Computer science student, passionate software and front-end developer.
 
 <h3>Current Github Stats:</h3>
-
-<a href="https://github.com/italomartinns/github-readme-stats">
-  <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://grs-it.vercel.app/api/top-langs/?username=italomartinns&theme=default&layout=compact&langs_count=10">
-    <img height=170 align="center" src="https://grs-it.vercel.app/api/top-langs/?username=italomartinns&theme=github_dark&layout=compact&langs_count=10"/>
-  </picture>
-</a>
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://grs-it.vercel.app/api/top-langs/?username=italomartinns&theme=default&layout=compact&langs_count=10">
+  <img height=170 align="center" src="https://grs-it.vercel.app/api/top-langs/?username=italomartinns&theme=github_dark&layout=compact&langs_count=10"/>
+</picture>
 
 ## 🖥️ Languages and Tools
 
