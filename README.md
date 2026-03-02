@@ -7,7 +7,8 @@
 
 ## 📝 About me
 
-- Computer science student, passionate software and front-end developer.
+👨🏻‍💻 Computer science student, passionate software and front-end developer.
+🚀 Keep moving forward, always improving.
 
 <h3>Current Github Stats:</h3>
 <picture>
