@@ -30,7 +30,7 @@
 </div> 
 
 ## 📱 Socials
-<a href="https://www.linkedin.com/in/italomartinns/">
+<a href="https://linkedin.com/in/italomartinns/">
   <img style="height: 40px; width: 50px;" alt="LinkedIn" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"/>
 </a>
 <!-- [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/italomartinns/) -->
