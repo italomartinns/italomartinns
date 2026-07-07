@@ -13,8 +13,9 @@
 
 ## 📊 Current Github Stats
 <picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://grs-it.vercel.app/api/top-langs/?username=italomartinns&theme=default&layout=compact&langs_count=10">
-  <img height=170 align="center" src="https://grs-it.vercel.app/api/top-langs/?username=italomartinns&theme=github_dark&layout=compact&langs_count=10"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://gse-it.vercel.app/api/top-langs/?username=italomartinns&theme=default&layout=compact&langs_count=10">
+  <!-- height=170 ??? -->
+  <img align="center" src="https://gse-it.vercel.app/api/top-langs/?username=italomartinns&theme=github_dark&layout=compact&langs_count=10"/>
 </picture>
 
 ## 🖥️ Languages and Tools
@@ -34,4 +35,3 @@
 <a href="https://linkedin.com/in/italomartinns/">
   <img style="height: 40px; width: 50px;" alt="LinkedIn" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"/>
 </a>
-<!-- [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/italomartinns/) -->
