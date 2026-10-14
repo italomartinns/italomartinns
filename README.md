@@ -15,8 +15,8 @@
 <picture>
   <source media="(prefers-color-scheme: light)" srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=italomartinns&theme=default&layout=compact&langs_count=10">    
   <img align="center" height=170 src="https://github-stats-extended.vercel.app/api/top-langs/?username=italomartinns&theme=github_dark&layout=compact&langs_count=10"/>
-  <!-- <source media="(prefers-color-scheme: light)" srcset="https://gse-it.vercel.app/api/top-langs/?username=italomartinns&theme=default&layout=compact&langs_count=10">    
-  <img align="center" height=170 src="https://gse-it.vercel.app/api/top-langs/?username=italomartinns&theme=github_dark&layout=compact&langs_count=10"/> -->
+  <!-- <source media="(prefers-color-scheme: light)" srcset="https://gse-it.vercel.app/api/top-langs/?username=italomartinns&theme=default&layout=compact&langs_count=10"> -->  
+  <!-- <img align="center" height=170 src="https://gse-it.vercel.app/api/top-langs/?username=italomartinns&theme=github_dark&layout=compact&langs_count=10"/> -->
 </picture>
 
 ## 🖥️ Languages and Tools
