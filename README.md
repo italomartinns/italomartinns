@@ -15,8 +15,8 @@
 <picture>
   <source media="(prefers-color-scheme: light)" srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=italomartinns&theme=default&layout=compact&langs_count=10">    
   <img align="center" height=170 src="https://github-stats-extended.vercel.app/api/top-langs/?username=italomartinns&theme=github_dark&layout=compact&langs_count=10"/>
-  <!-- <source media="(prefers-color-scheme: light)" srcset="https://gse-it.vercel.app/api/top-langs/?username=italomartinns&theme=default&layout=compact&langs_count=10"> -->  
-  <!-- <img align="center" height=170 src="https://gse-it.vercel.app/api/top-langs/?username=italomartinns&theme=github_dark&layout=compact&langs_count=10"/> -->
+  <!-- <source media="(prefers-color-scheme: light)" srcset="https://gse-it.vercel.app/api/top-langs/?username=italomartinns&theme=default&layout=compact&langs_count=10"> 
+  <img align="center" height=170 src="https://gse-it.vercel.app/api/top-langs/?username=italomartinns&theme=github_dark&layout=compact&langs_count=10"/> -->
 </picture>
 
 ## 🖥️ Languages and Tools
@@ -30,8 +30,6 @@
     <img style="height: 40px; width: 50px;" alt="C++" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
     <img style="height: 40px; width: 50px;" alt="Node.js" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />
     <img style="height: 40px; width: 50px;" alt="AWS" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" />
-          
-    <!-- <img style="height: 40px; width: 50px;" alt="C" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" /> -->
 </div> 
 
 ## 📱 Contact
